@@ -1,6 +1,6 @@
 <div style="font-family: Arial, sans-serif; background:#0f172a; color:#e2e8f0; padding:25px; border-radius:12px;">
 
-<h1 style="text-align:center; color:#22c55e;">⚔️ PracticePvP ⚔️</h1>
+<h1 style="text-align:center; color:#22c55e;">⚔️ PracticeCoreX ⚔️</h1>
 
 <p style="text-align:center; font-size:16px; color:#94a3b8;">
 The Ultimate Practice PvP System for Competitive Minecraft Servers
